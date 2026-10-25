@@ -2,10 +2,6 @@
 
 A modern **student UI/UX design concept** for Forma, a fictional online design school offering practical, project-based learning. Created in Figma for an individual UI/UX assignment.
 
-## Preview
-
-View the desktop and mobile landing-page designs using the screenshots in the `screenshots/` folder.
-
 ## Features
 - Landing-page design for a fictional online design school
 - Header with logo, navigation links, and call-to-action button
@@ -21,8 +17,6 @@ View the desktop and mobile landing-page designs using the screenshots in the `s
 
 ## Files
 - `README.md` — project overview and documentation
-- `screenshots/forma-desktop.png` — desktop landing-page design
-- `screenshots/forma-mobile.png` — mobile landing-page design
 
 ## Design system
 
@@ -37,14 +31,6 @@ Designed in Figma using Auto Layout, reusable components, and shared color and t
 **Design choices:** Warm ivory backgrounds create a welcoming atmosphere, expressive serif headings add personality, and cobalt accents highlight important actions. Clear hierarchy and generous spacing make the content easy to scan.
 
 **Figma link:** [View Forma in Figma](https://www.figma.com/design/oEuQraxLjmaoUn6CLrVAu5/Forma?node-id=0-1)
-
-## GitHub submission
-
-1. Create a **public** GitHub repository named `forma-landing-page`.
-2. Upload `README.md` and the `screenshots/` folder.
-3. Commit the files to the `main` branch.
-4. Check that the screenshots display correctly in the README.
-5. Submit your **repository URL** in the class Google Sheet.
 
 ## Scope and honesty
 
